@@ -1,0 +1,29 @@
+logs
+.idea/
+*.iws
+out/
+
+.gradle
+/build/
+bin/
+gradle/
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
+
+# Cache of project
+.gradletasknamecache
+
+# Mac files
+.DS_Store
+
+#VSCode files
+.project
+org.eclipse.buildship.core.prefs
+.vscode/
+.classpath
+
+.plan
